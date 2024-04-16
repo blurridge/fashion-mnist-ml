@@ -21,3 +21,12 @@ The CNN class defines a convolutional neural network architecture in PyTorch for
 
 ## Conclusions
 The model managed to achieve a final accuracy of `92.54%` with a `0.2833` loss after 10 epochs of training with 64 batch size. 
+
+## Stay in touch
+If you have any questions, suggestions, or need further assistance, feel free to reach out to me. I'm always happy to help!
+
+- Email: [zachriane01@gmail.com](mailto:zachriane01@gmail.com)
+- GitHub: [@blurridge](https://github.com/blurridge)
+- Twitter: [@zachahalol](https://twitter.com/zachahalol)
+- Instagram: [@zachahalol](https://www.instagram.com/zachahalol)
+- LinkedIn: [Zach Riane Machacon](https://www.linkedin.com/in/zachriane)
